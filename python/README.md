@@ -1,6 +1,10 @@
 # Python Battle Tetris Sample Client
 
-## Dependencies
+## Running the Client
+
+    python client.py
+
+## Dependencies (Already installed on AWS VM's)
 
 ### 1. ZeroMQ
 
@@ -9,7 +13,3 @@
 ### 2. ZeroMQ Python Binding
 
 [ZeroMQ Python Binding](http://www.zeromq.org/bindings:python)
-
-## Running the Client
-
-    python client.py

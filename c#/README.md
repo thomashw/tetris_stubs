@@ -1,15 +1,5 @@
 # C# Battle Tetris Sample Client
 
-## Dependencies
-
-### 1. ZeroMQ
-
-[ZeroMQ](http://www.zeromq.org/)
-
-### 2. ZeroMQ C# Binding
-
-[ZeroMQ C# Binding](http://www.zeromq.org/bindings:clr)
-
 ## Running the Client
 
 ### On AWS
@@ -19,6 +9,16 @@
 3. Change to the client folder using `cd`
 4. Invoke the C# compiler using `csc /reference:clrzmq.dll /reference:Newtonsoft.Json.dll *.cs`
 5. Run your client by typing the name of the generated binary
+
+## Dependencies (Already installed on AWS VM's)
+
+### 1. ZeroMQ
+
+[ZeroMQ](http://www.zeromq.org/)
+
+### 2. ZeroMQ C# Binding
+
+[ZeroMQ C# Binding](http://www.zeromq.org/bindings:clr)
 
 ### Note
 

@@ -1,6 +1,10 @@
 # C++ Battle Tetris Sample Client
 
-## Dependencies
+## Running the Client (Linux)
+    1. `make`
+    2. `./client.app`
+
+## Dependencies (Already installed on AWS VM's)
 
 ### 1. ZeroMQ
 
@@ -9,7 +13,3 @@
 ### 2. ZeroMQ C++ Binding
 
 [ZeroMQ C++ Binding](http://www.zeromq.org/bindings:cpp)
-
-## Running the Client (Linux)
-    1. `make`
-    2. `./client.app` 

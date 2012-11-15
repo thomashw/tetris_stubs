@@ -1,6 +1,6 @@
 # Ruby Battle Tetris Sample Client
 
-## Dependencies
+## Dependencies (Not installed on AWS VM's)
 
 ### 1. ZeroMQ
 
